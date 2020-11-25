@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+
+    <string-array name="currencies">
+        <item>Dollar</item>
+        <item>Euro</item>
+        <item>Yen</item>
+        <item>Yuan</item>
+    </string-array>
+</resources>
